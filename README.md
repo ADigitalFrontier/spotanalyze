@@ -4,15 +4,15 @@ This tool allows your to view a histogram of your Spotify listening history genr
 
 ## Example Histogram
 
-![Genre Histogram](image-4.png)
+![Genre Histogram](thumbnails/image-4.png)
 
 ## Example Genre Analysis 1 — Relative Mode, 14-Day Window
 
-![Genre-Specific Analysis — Relative Mode, 14-Day Window](image-2.png)
+![Genre-Specific Analysis — Relative Mode, 14-Day Window](thumbnails/image-2.png)
 
 ## Example Genre Analysis 2 — Nominal Mode, 7-Day Window
 
-![Genre-Specific Analsysis — Nominal Mode, 7-Day Window](image-3.png)
+![Genre-Specific Analsysis — Nominal Mode, 7-Day Window](thumbnails/image-3.png)
 
 ## How to Use
 
