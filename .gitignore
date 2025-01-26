@@ -1,0 +1,6 @@
+history/*.json
+trackdata/*.json
+__pycache__
+ppdata.csv
+mydata.json
+combined_history.json
