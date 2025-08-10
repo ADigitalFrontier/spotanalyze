@@ -30,6 +30,4 @@ You can work with the provided `get_track_data.py` tool if you need to analyze a
 
 Using `get_track_data.py` requires a .env file containing a Spotify Developer API `CLIENT_ID` and `CLIENT_SECRET`. The data which it downloads does not match the expected format of the playlist sorter `.csv` files, so you'll need to know what you're doing to make that work.
 
-## Disclaimer
-
-I made this tool with the help of ChatGPT. I do not claim this to be "my" work in a thorough sense. My goal was to make a useful tool very quickly for my own use, not to show off the fact I can write basic Python.
+* Development streamlined via AI
